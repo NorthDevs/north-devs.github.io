@@ -5,11 +5,17 @@
 
 ---
 
+# L'entreprise
 
-# Language
+Nous sommes une société de prestations informatiques.
 
-[Français](/fr/about)
+## Contact
 
-[English](/en/about)
+Vous pouvez nous contacter à l'adresse: contact@north-devs.com.
+
+## Portage Salarial
+
+Nous proposons aussi du [portage salarial](/connect/portage-salarial).
+
 
 ---
