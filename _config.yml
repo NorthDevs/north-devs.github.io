@@ -16,7 +16,7 @@
 title: North Devs
 email: contact@north-devs.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An IT company
+  Nous fournissons des services informatiques, et du portage salarial
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "north-devs.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: north-devs
@@ -33,11 +33,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Readme.md
-  
+
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-# Maybe move to https://github.com/ndrewtl/airspace-jekyll ? 
+# Maybe move to https://github.com/ndrewtl/airspace-jekyll ?
 # https://github.blog/2017-11-29-use-any-theme-with-github-pages/

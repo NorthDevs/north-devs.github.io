@@ -5,7 +5,7 @@
 
 ---
 
-# L'entreprise
+# North Devs
 
 Nous sommes une société de prestations informatiques.
 
