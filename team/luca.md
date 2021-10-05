@@ -8,6 +8,6 @@ Il est indépendant depuis 2018.
 
 #### Luca - Technologies
 
-- Programmation fonctionnelle (Haskell à la maison, Vavr au travail)
-- Java
+- Programmation fonctionnelle (Haskell, Rust, Elm)
+- Java ([Certifié](https://www.credly.com/badges/55fd76a4-50fc-4187-9f9e-5d92f6b5ac5e))
 - Devops (Kubernetes, GCP)
