@@ -17,5 +17,9 @@ Vous pouvez nous contacter à l'adresse: contact@north-devs.com.
 
 Nous proposons aussi du [portage salarial](/connect/portage-salarial).
 
+## L'équipe
+
+- [Benjamin](team/benjamin)
+- [Luca](team/luca)
 
 ---
