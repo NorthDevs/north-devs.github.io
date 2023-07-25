@@ -12,3 +12,9 @@ Tous les mois, les salarié.e.s doivent:
 ## Le portage en détail
 
 TODO
+
+## Frais autorisés
+
+Globalement tous les services liés à votre activités peuvent passer en frais (à valider auparavant).
+
+Cependant c'est plus compliqué pour les produits concrets. Il faut savoir que vous ne serez propriétaires de rien. Cela veut dire que si les biens de la société sont saisis, il faudra être en mesure de rendre tout ce qui est dans la comptabilité (~2 ans pour le matériel informatique).
